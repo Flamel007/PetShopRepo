@@ -1,4 +1,4 @@
 
-public class ClasseGato {
+public class ClasseGato extends ClasseAnimais{
 
 }
